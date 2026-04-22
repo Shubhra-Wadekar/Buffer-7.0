@@ -52,6 +52,9 @@ The system follows a *modular design*:
 - Shubhra Wadekar
 - P Nandhini
 
+Video Link:
+https://drive.google.com/file/d/19vHOTX2i2dxxFsksNOsTEbg2IM2qrPAE/view?usp=drive_link
+
 
 
  Conclusion
